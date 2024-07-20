@@ -1,0 +1,31 @@
+.containerr{
+    width:100vw;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color:aquamarine ;
+   
+}
+
+.containe{
+    background-color: aquamarine;
+    height: 25vh;
+}
+#h{
+    color:azure;
+    font-family:Sacramento, cursive;
+    font-size:50px;
+    word-spacing: 5px;
+}
+#hh{
+    color:#009999;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    word-spacing: 3px;
+}
+#pic{
+    
+    border-radius: 50%;
+    border: 10px solid #009999;
+}
